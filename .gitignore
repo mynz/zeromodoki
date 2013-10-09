@@ -2,8 +2,8 @@
 bus_if.h
 device_if.h
 export_syms
-gomibako.ko
-gomibako.o
+*.ko
+*.o
 machine
 x86
 tags
